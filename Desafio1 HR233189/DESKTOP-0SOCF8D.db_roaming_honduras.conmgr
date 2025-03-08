@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-0SOCF8D.db_roaming_honduras"
+  DTS:DTSID="{A3D512DE-1663-423D-BD9E-3006B88CAF9F}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-0SOCF8D;Initial Catalog=db_roaming_honduras;Integrated Security=True;TrustServerCertificate=True;Application Name=SSIS-Desafio1 HR233189-{A3D512DE-1663-423D-BD9E-3006B88CAF9F}DESKTOP-0SOCF8D.db_roaming_honduras;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
